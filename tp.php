@@ -1,2 +1,3 @@
-<?php 
+<?php
+echo "<p>TP</p>";
 ?>
